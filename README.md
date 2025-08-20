@@ -4,8 +4,7 @@ Toronto, ON • adrian.veen@gmail.com • 647 562 6056 • [LinkedIn](https://ww
 
 **PROFESSIONAL SUMMARY**
 
-Software engineer with Engineering Physics background and hands-on experience building production tools and data systems. Develop reliable Python applications, ETL pipelines, and automated testing workflows from problem definition to deployment. Experience with API integration, database design, and performance optimization. Seeking Shopify Winter 2026 Engineering Internship to contribute to commerce platform engineering.
-
+Software engineer with Engineering Physics background and hands-on experience building production tools and data systems. Develop reliable Python applications, ETL pipelines, and automated testing workflows from problem definition to deployment. Experience with API integration, database design, and performance optimization. 
 **SKILLS**
 
 **Programming:** Python, SQL (Postgres/MySQL/SQLite), learning Go; MATLAB, R; Bash, Powershell
