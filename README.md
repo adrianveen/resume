@@ -25,7 +25,7 @@ Software engineer with Engineering Physics background and hands-on experience bu
 
 ## EXPERIENCE
 
-**Junior Software Developer --** *FUS Instruments, Toronto, ON Oct 2024 -- Present*
+**Junior Software Developer &mdash;** *FUS Instruments, Toronto, ON &mdash; Oct 2024 - Present*
 
 - Replaced fixed wait timers with device acknowledgements in scope control, eliminating flaky runs and improving measurement reliability. Eliminated hardware race conditions, improving reliability by 20% and routine speed by 50%
 
@@ -39,7 +39,7 @@ Software engineer with Engineering Physics background and hands-on experience bu
 
 - Packaged and shipped Windows executables with PyInstaller, adding logging and environment configuration to simplify lab deployments.
 
-**Engineering Technician --** *FUS Instruments, Toronto, ON April 2024 -- Oct 2024*
+**Engineering Technician &mdash;** *FUS Instruments, Toronto, ON &mdash; April 2024 - Oct 2024*
 
 - Streamlined hardware to software communication for precision instruments, improving measurement consistency and throughput.
 
@@ -49,7 +49,7 @@ Software engineer with Engineering Physics background and hands-on experience bu
 
 - Established documentation process with templates to ensure consistent and clear documentation for all process, software, and tools
 
-**Team Lead, Client Success --** *Exactus Energy, Toronto, ON 2017 -- Oct 2023*
+**Team Lead, Client Success &mdash;** *Exactus Energy, Toronto, ON &mdash; 2017 - Oct 2023*
 
 - Built and led a 6-person team; set up KPI and SLA definitions, cadences, and ownership across the workflow.
 
@@ -59,7 +59,7 @@ Software engineer with Engineering Physics background and hands-on experience bu
 
 - Translated operations signals into metrics, alerts, and corrective actions in partnership with operations and engineering
 
-**Sr. Client Success Manager --** *Exactus Energy, Toronto, ON 2017 -- Oct 2023*
+**Sr. Client Success Manager &mdash;** *Exactus Energy, Toronto, ON &mdash; 2017 - Oct 2023*
 
 - Automated KPI pipeline for over 5,000 projects annually; enabled consistent monthly reporting and ad hoc executive summaries
 
@@ -67,7 +67,7 @@ Software engineer with Engineering Physics background and hands-on experience bu
 
 - Identified bottlenecks across intake to completion and implemented fixes reflected in dashboard trends.
 
-**Client Success Manager --** *Exactus Energy, Toronto, ON 2017 -- Oct 2023*
+**Client Success Manager &mdash;** *Exactus Energy, Toronto, ON &mdash; 2017 - Oct 2023*
 
 - Managed a high-volume portfolio while establishing baseline KPIs, SLA expectations and reporting routines
 
@@ -75,13 +75,13 @@ Software engineer with Engineering Physics background and hands-on experience bu
 
 - Captured recurring issues, formalized playbooks, and laid the groundwork for later automation and scale.
 
-**Solar Technician --** *Exactus Energy, Toronto, ON 2017 -- Oct 2023*
+**Solar Technician &mdash;** *Exactus Energy, Toronto, ON &mdash; 2017 - Oct 2023*
 
 - Performed site surveys and structural inspections in customers' homes, produced AutoCAD PV layouts and permit-ready packages, and coordinated with installers, balancing technical accuracy with clear communication to ensure safe, code-compliant installations.
 
 ## PROJECTS
 
-**SplitterApp -- Python expense manager**
+**SplitterApp - Python expense manager**
 
 Developed a Python/PySide6 desktop tool for managing shared expenses. Features include adding and removing transactions with unique identifiers, automatic cost splitting and real-time balance updates, and seamless Google Drive synchronisation. It provides an intuitive dark-themed interface, uses CSV-based offline storage for resilience, and is packaged for easy installation. The codebase is covered by comprehensive pytest-driven tests to ensure reliability.
 
@@ -103,7 +103,7 @@ Designed a full machine-learning pipeline on NASA's Kepler dataset. Cleaned and 
 
 ## EDUCATION
 
-**Data Science Diploma**, Lighthouse Labs -- Toronto, ON, Canada
+**Data Science Diploma**, Lighthouse Labs - Toronto, ON, Canada
 
-**B.A.Sc. Engineering Physics**, **Mechanical Option**, Queen's University -- Kingston, ON, Canada
+**B.A.Sc. Engineering Physics**, **Mechanical Option**, Queen's University - Kingston, ON, Canada
 ```
