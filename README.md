@@ -2,10 +2,10 @@
 
 Toronto, ON • adrian.veen@gmail.com • 647 562 6056 • [LinkedIn](https://www.linkedin.com/in/a-veenhoven/) | [GitHub](https://github.com/adrianveen)
 
-**PROFESSIONAL SUMMARY**
+## PROFESSIONAL SUMMARY
 
 Software engineer with Engineering Physics background and hands-on experience building production tools and data systems. Develop reliable Python applications, ETL pipelines, and automated testing workflows from problem definition to deployment. Experience with API integration, database design, and performance optimization. 
-**SKILLS**
+## SKILLS
 
 **Programming:** Python, SQL (Postgres/MySQL/SQLite), learning Go; MATLAB, R; Bash, Powershell
 
@@ -23,7 +23,7 @@ Software engineer with Engineering Physics background and hands-on experience bu
 
 **Collaboration:** Stakeholder-facing demos, concise writeups, decision-focused presentations
 
-**EXPERIENCE**
+## EXPERIENCE
 
 **Junior Software Developer --** *FUS Instruments, Toronto, ON Oct 2024 -- Present*
 
@@ -79,7 +79,7 @@ Software engineer with Engineering Physics background and hands-on experience bu
 
 - Performed site surveys and structural inspections in customers' homes, produced AutoCAD PV layouts and permit-ready packages, and coordinated with installers, balancing technical accuracy with clear communication to ensure safe, code-compliant installations.
 
-**PROJECTS**
+## PROJECTS
 
 **SplitterApp -- Python expense manager**
 
@@ -101,7 +101,7 @@ Led a short end‑to‑end unsupervised‑learning project on a grocery wholesal
 
 Designed a full machine-learning pipeline on NASA's Kepler dataset. Cleaned and encoded data; explored several models to determine best performance (XGBoost). Applied feature engineering and resampling, cross‑validated the model and achieved ~0.91 weighted accuracy and ~0.88 macro F1‑score, illustrating robust classification of exoplanet candidates.
 
-**EDUCATION**
+## EDUCATION
 
 **Data Science Diploma**, Lighthouse Labs -- Toronto, ON, Canada
 
