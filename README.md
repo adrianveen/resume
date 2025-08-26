@@ -1,6 +1,6 @@
 # Adrian Veenhoven
 
-Toronto, ON • adrian.veen@gmail.com • 647 562 6056 • [LinkedIn](https://www.linkedin.com/in/a-veenhoven/) | [GitHub](https://github.com/adrianveen)
+Toronto, ON • [LinkedIn](https://www.linkedin.com/in/a-veenhoven/) | [GitHub](https://github.com/adrianveen)
 
 ## PROFESSIONAL SUMMARY
 
